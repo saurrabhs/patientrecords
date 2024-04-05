@@ -34,7 +34,7 @@
           <div class="col-lg-6">
             <div class="p-5">
               <div class="text-center">
-                <img width="70" height="70" src="<?php echo base_url(); ?>Gharada Hospital"><br><br>
+                <img width="70" height="70" src="<?php echo base_url();?>img/Gharada Hospital.png"><br><br>
                  <h6><b>Superspeciality Hospital</b></h6>
                  <h1 class="h4 text-gray-900 mb-4">Patient Record Management System </h1>
               </div>    

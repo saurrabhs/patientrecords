@@ -167,7 +167,7 @@
                 <button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>
                 <h6><i class='con fa fa-check'></i></h6>".$this->session->flashdata('edit_finding_success') ."</div>" ?>
            <?php endif; ?>
-                  <h6 class="text-center"><b>RIZAL PROVINCIAL HOSPITAL SYSTEM-BINANGONAN ANNEX</b></h6>
+                  <h6 class="text-center"><b>Superspeciality Hospital Lavel</b></h6>
                   <div class="row "><!-- ROW 1 -->
                    <div class="col-sm-4"></div>
                    

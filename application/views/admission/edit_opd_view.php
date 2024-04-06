@@ -22,7 +22,7 @@
                  <div class="row "><!-- ROW 1 -->
                    <div class="col-sm-4"></div>
                    <div class="col-sm-4">
-                     <h6 class="text-center"><b>RIZAL PROVINCIAL HOSPITAL SYSTEM-BINANGONAN ANNEX</b></h6>
+                     <h6 class="text-center"><b>Superspeciality Hospital Lavel</b></h6>
                      <h5 class="text-center"><b>PATIENT RECORD</b></h5>
                    </div>
                    <div class="col-sm-4"></div>
